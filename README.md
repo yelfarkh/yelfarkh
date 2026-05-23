@@ -1,8 +1,3 @@
----
-title: "YOUSSEF EL FARKH"
-output: github_document
----
-
 # 👋 Hi, I'm Youssef El Farkh
 
 🎓 Data Scientist & Data Analyst graduated with a Master's degree in Data Science, Statistics and Econometrics from the University of Rennes.
